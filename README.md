@@ -1,6 +1,7 @@
 # analysing_loneliness
-Analysing Loneliness Forum Posts, the Comments they Elicit, and the Responses to these Comments.
-Abstract
+**Analysing Loneliness Forum Posts, the Comments they Elicit, and the Responses to these Comments.**
+
+**Abstract**
 In May 2023, the United States surgeon general put out an advisory suggesting that
 loneliness and social isolation should be tackled and prioritized like health conditions
 such as substance abuse. Online loneliness forums provide a platform for users
